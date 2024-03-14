@@ -31,11 +31,7 @@ function CarForm() {
 
       <div className="field">
         <label className="label">Cost</label>
-        <input
-          className="input is-expanded"
-          value={cost || ''}
-          type="number"
-        />
+        
       </div>
     </div>
     <div className="field">
